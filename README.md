@@ -7,7 +7,7 @@
 3. Victor Luiz Dias Parisi RM: 84190;
 
 ## Link Youtube
-https://github.com/racgoncalves/Global-IOT
+https://youtu.be/L02Wd_oBPQc
 
 ## Instruções
 Rode as funções na ordem apresentada
